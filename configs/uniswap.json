@@ -4,17 +4,13 @@
     {
       "url": "https://uniswap.org/docs/v2",
       "extra_attributes": {
-        "version": [
-          "v2"
-        ]
+        "version": ["v2"]
       }
     },
     {
       "url": "https://uniswap.org/docs/v1",
       "extra_attributes": {
-        "version": [
-          "v1"
-        ]
+        "version": ["v1"]
       }
     }
   ],
@@ -29,12 +25,8 @@
     "text": "[class*='MDX'] p, [class*='MDX'] li"
   },
   "custom_settings": {
-    "attributesForFaceting": [
-      "version"
-    ]
+    "attributesForFaceting": ["version"]
   },
-  "conversation_id": [
-    "1203516192"
-  ],
+  "conversation_id": ["1203516192"],
   "nb_hits": 456
 }
